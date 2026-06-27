@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chalukyanithin/dsa-streak/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chalukyanithin/dsa-streak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chalukyanithin/dsa-streak/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0700-search-in-a-binary-search-tree](https://github.com/chalukyanithin/dsa-streak/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chalukyanithin/dsa-streak/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chalukyanithin/dsa-streak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chalukyanithin/dsa-streak/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0700-search-in-a-binary-search-tree](https://github.com/chalukyanithin/dsa-streak/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chalukyanithin/dsa-streak/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/chalukyanithin/dsa-streak/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
