@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chalukyanithin/dsa-streak/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chalukyanithin/dsa-streak/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chalukyanithin/dsa-streak/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/chalukyanithin/dsa-streak/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chalukyanithin/dsa-streak/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/chalukyanithin/dsa-streak/tree/master/0207-course-schedule) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chalukyanithin/dsa-streak/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/chalukyanithin/dsa-streak/tree/master/0785-is-graph-bipartite) |
 ## Linked List
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/chalukyanithin/dsa-streak/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/chalukyanithin/dsa-streak/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/chalukyanithin/dsa-streak/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chalukyanithin/dsa-streak/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/chalukyanithin/dsa-streak/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
